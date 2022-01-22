@@ -5,6 +5,7 @@
 
 **How to run this code:** 
 There are two ways
+
 first way: 
 1. EXPO INSTALL:npm install -g expo-cli
 2. FIRST INSTALL EXPO USING ABOVE COMMAND
