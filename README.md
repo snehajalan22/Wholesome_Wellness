@@ -1,11 +1,22 @@
-# Sample Snack app
+App Name: Wholesome Wellness
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Team Name: The Healthy Vibes Team
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+How to run this code: There are two ways
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+first way:
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+EXPO INSTALL:npm install -g expo-cli
+FIRST INSTALL EXPO USING ABOVE COMMAND
+THEN NAVIGATE TO UR PROJECT FOLDER
+AND USE COMMAND : NPM INSTALL TO INSTALL ALL DEPENDENCIES
+AND USE EXPO START TO START PROJECT
+second way:
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+open link (https://snack.expo.dev/)
+log in to your account
+next to add file, click on the 3 dots and then import git repository
+take the link of this and paste it
+now download "expo go" app in your phone to see the functionality
+scan the qr code and open it in the app after logging into it
+Project Idea: My project idea is a wellness app which is on the topic mental and physical wellbeing. This app contains different wellness activity guides and is connect to the theme "Healthcare". We will have a menu bar which consists of Spas, Fitness Training Studios, Ayurvedic companies, Therapists, Dieticians, Counsellors and Pharmacies. We will either be using the help of custom google maps or just regular JSX and JavaScript language. We will be using google maps for Spas, Fitness training studios and Pharmacies. For Therapists, Dieticians, Ayurvedic Companies and Counsellors, we will be giving their contact details. We will tie up with the same in the future, for the benefit of our customers in terms of certain offers. For the time being, this app is limited only to Citizens of Hyderabad, but we plan to expand it throughout India in the future as there goes a lot of fieldwork.
